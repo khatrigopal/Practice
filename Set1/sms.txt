@@ -1,2 +1,4 @@
 hello
 today is Tuesday
+Hi Buddy
+Come here
